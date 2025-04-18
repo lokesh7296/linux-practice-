@@ -1,0 +1,8 @@
+pwd     - Prient current directory
+ls      - List directory contents
+cd      - Chande directory 
+mkdir   - Make new directory
+touch   - create new empty file 
+rm      - remove files or directories 
+cp     - ccopy files?directories
+mv      - move or rename files/directories
